@@ -2,6 +2,8 @@
 
 A smart parking assistant system using ESP32, LED strip, and a TF-Luna LiDAR sensor to help drivers park their vehicles at the perfect distance from a wall.
 
+<a href="https://www.buymeacoffee.com/that1prince" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## Features
 
 - Real-time distance measurement using TF-Luna LiDAR sensor
